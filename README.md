@@ -1,4 +1,7 @@
-![milkyway](./assets/sky2.jpg)
+<div align="center">
+    <img src="./assets/sky2.jpg" alt="milkyway" width="500"/>
+</div>
+
 
 ## 🔗 Let's Connect!
 <a href="https://nmacun.com/" target="_blank" rel="noopener noreferrer"><img alt="Website" src="https://img.shields.io/badge/Personal Blog-%23026AA7.svg?&style=for-the-badge&logo=https://nmacun.com/favicon.png&logoColor=white" /></a>
